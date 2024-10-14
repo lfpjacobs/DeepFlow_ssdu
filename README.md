@@ -1,1 +1,2 @@
-This repository has been redirected to [gitlab](gitlab.ethz.ch/ibt-cmr/publications/flowmri_net)
+This repository has been redirected to gitlab.ethz.ch/ibt-cmr/publications/flowmri_net
+
